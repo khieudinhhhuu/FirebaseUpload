@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Firebase Upload</string>
+    <string name="khong_bo_trong">Không bỏ trống!</string>
+</resources>
